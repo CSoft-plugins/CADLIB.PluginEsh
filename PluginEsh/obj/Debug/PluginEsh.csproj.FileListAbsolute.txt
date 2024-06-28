@@ -1,0 +1,5 @@
+C:\Users\eshmetov.roman\source\repos\PluginEsh\PluginEsh\obj\Debug\PluginEsh.csproj.AssemblyReference.cache
+C:\Users\eshmetov.roman\source\repos\PluginEsh\PluginEsh\obj\Debug\Plugin.Form1.resources
+C:\Users\eshmetov.roman\source\repos\PluginEsh\PluginEsh\obj\Debug\Plugin.Form2.resources
+C:\Users\eshmetov.roman\source\repos\PluginEsh\PluginEsh\obj\Debug\PluginEsh.csproj.GenerateResource.cache
+C:\Users\eshmetov.roman\source\repos\PluginEsh\PluginEsh\obj\Debug\PluginEsh.csproj.CoreCompileInputs.cache
